@@ -1,0 +1,9 @@
+body {
+    background-image: url(gradiente.png);
+    color: white;
+}
+
+#result {
+    width:300;
+    height:300;
+}
